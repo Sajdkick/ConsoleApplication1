@@ -4,7 +4,7 @@ using namespace std;
 void main()
 {
 
-	for (int x = 0; x < 10000; x++)
-		cout << "lol";
+	for (int x = 0; x < 100000; x++)
+		cout << "wooooh";
 
 }
